@@ -1,0 +1,8 @@
+.EightBall-button {
+  margin: 0 auto;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  color: aliceblue;
+}
